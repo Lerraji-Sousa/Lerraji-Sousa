@@ -1,3 +1,5 @@
+<br>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+my+name+is+Lerraji+Sousa;I'm+a+full-stack+developer;I'm+from+Brazil+;Welcome%3A)](https://git.io/typing-svg)
 
 
