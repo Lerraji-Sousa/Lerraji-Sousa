@@ -21,7 +21,7 @@
 <br>
 
 
-![Top Langs](https://ssr-contributions-svg.vercel.app/_/Lerraji-Sousa?chart=3dbar&gap=3&scale=2&flatten=2&animation=mess&animation_duration=5&format=svg&weeks=20&theme=purple)
+![Top Langs](https://ssr-contributions-svg.vercel.app/_/Lerraji-Sousa?chart=3dbar&gap=3&scale=2&flatten=2&animation=mess&animation_duration=5&format=svg&weeks=20&theme=blue&dark=true)
 <br>
 <br>
 
