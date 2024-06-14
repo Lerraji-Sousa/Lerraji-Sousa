@@ -15,12 +15,14 @@
     <img align="center"alt="html5"  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
     <img align="center"alt="html5"  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div>
+
+
+
 <br>
 
 
+![Top Langs](https://ssr-contributions-svg.vercel.app/_/Lerraji-Sousa?chart=3dbar&gap=3&scale=2&flatten=2&animation=mess&animation_duration=5&format=svg&weeks=20&theme=purple)
+<br>
 <br>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lerraji-Sousa&layout=donut)](https://github.com/Lerraji-Sousa/github-readme-stats)
-
-### Transformando ideias em realidade através do código.
+### Transformando ideias em código...
