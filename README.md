@@ -5,7 +5,7 @@
 
 
 
-![Lerraji GitHub stats](https://github-readme-stats.vercel.app/api?username=Lerraji-Sousa&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lerraji-Sousa&show_icons=true&theme=tokyonight)
 
 
 ### Tecnologias que eu utilizo diariamente.
