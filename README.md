@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+my+name+is+Lerraji+Sousa;I'm+a+full-stack+developer;I'm+from+Brazil;Welcome!)](https://git.io/typing-svg)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lerraji-Sousa&show_icons=true&theme=tokyonight)
 
 ### Tecnologias que eu utilizo diariamente.
 <div style="display: inline_block"><br/>
@@ -16,9 +15,8 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lerraji-Sousa&layout=compact&theme=tokyonight)
 
 <br>
 <br>
 
-### Transformando ideias em código...
+
