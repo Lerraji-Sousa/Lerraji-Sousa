@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+my+name+is+Lerraji+Sousa;I'm+a+full-stack+developer;I'm+from+Brazil;Welcome!)](https://git.io/typing-svg)
 
 
-### Tecnologias que eu utilizo diariamente.
+### Tecnologias que eu utilizo:
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
